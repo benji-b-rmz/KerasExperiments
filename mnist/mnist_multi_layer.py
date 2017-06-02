@@ -30,9 +30,9 @@ def multi_layer_model():
     model = Sequential()
     model.add(Dense(512, input_shape=(784,), activation='relu'))
     model.add(Dropout(0.2))
-    model.add(Dense(512, activation='relu'))
-    model.add(Dropout(0.2))
-    model.add(Dense(512, activation='relu'))
+    model.add(Dense(256, activation='relu'))
+    model.add(Dense(256, activation='relu'))
+    model.add(Dense(128, activation='relu'))
     model.add(Dropout(0.2))
     model.add(Dense(num_classes, activation='softmax'))
     # Compile model
