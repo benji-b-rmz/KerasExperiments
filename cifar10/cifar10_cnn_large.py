@@ -1,5 +1,3 @@
-# Base file, majority of code implemented from keras examples repository:
-# https://github.com/fchollet/keras/tree/master/examples #
 # Larger CNN for the CIFAR-10 Dataset
 import numpy
 from keras.datasets import cifar10

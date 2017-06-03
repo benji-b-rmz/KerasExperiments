@@ -1,4 +1,3 @@
-# Benjamin Ramirez Jun 1, 2017
 # Modified Code from cnn_file to test performance of single layer Deep NN vs Convolutional
 import numpy
 from keras.datasets import mnist

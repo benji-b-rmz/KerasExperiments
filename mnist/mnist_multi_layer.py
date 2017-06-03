@@ -1,4 +1,3 @@
-# Benjamin Ramirez Jun 1, 2017
 # Modified Code from single_layer
 # testing performance of single layer Deep NN vs Multi-Layer implementation
 import numpy

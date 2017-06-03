@@ -1,4 +1,3 @@
-# Benjamin Ramirez June 2, 2017
 # Multi-Layer NN for the CIFAR-10 Dataset
 import numpy
 from keras.datasets import cifar10

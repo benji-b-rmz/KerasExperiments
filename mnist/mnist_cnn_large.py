@@ -1,5 +1,3 @@
-# Base file, majority of code implemented from keras examples repository:
-# https://github.com/fchollet/keras/tree/master/examples #
 # Larger CNN for the MNIST Dataset
 import numpy
 from keras.datasets import mnist
